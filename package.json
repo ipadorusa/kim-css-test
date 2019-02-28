@@ -1,0 +1,23 @@
+{
+  "name": "kim-css",
+  "version": "1.0.0",
+  "description": "\"# kim-css-test\"",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ipadorusa/kim-css-test.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ipadorusa/kim-css-test/issues"
+  },
+  "homepage": "https://github.com/ipadorusa/kim-css-test#readme",
+  "devDependencies": {
+    "jest": "^24.1.0"
+  }
+}
